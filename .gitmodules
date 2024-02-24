@@ -1,3 +1,0 @@
-[submodule "hello"]
-	path = hello
-	url = git@github.com:garapati33/hello.git
